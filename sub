@@ -1,2 +1,0 @@
-# do subtraction
-echo $(($1 - $2))
